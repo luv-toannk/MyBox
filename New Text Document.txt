@@ -1,4 +1,8 @@
 GitHub
 Test Clone
 Edit
+<<<<<<< HEAD
 Conflict
+=======
+Conflict rồi
+>>>>>>> 1f498f4fd3387702ba61313f34b29cfd12c57a38
